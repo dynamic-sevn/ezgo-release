@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f87ce06d-901c-4e4d-bd4c-c63ff6e45082" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/favicon.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -20,10 +18,10 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="232">
-              <caret line="100" column="56" lean-forward="true" selection-start-line="100" selection-start-column="56" selection-end-line="100" selection-end-column="56" />
+            <state relative-caret-position="147">
+              <caret line="7" column="64" selection-start-line="7" selection-start-column="64" selection-end-line="7" selection-end-column="64" />
               <folding>
-                <marker date="1602350993917" expanded="true" signature="3290:3491" ph="..." />
+                <marker date="1602351452943" expanded="true" signature="3100:3301" ph="..." />
               </folding>
             </state>
           </provider>
@@ -86,6 +84,7 @@
       <find>2.1</find>
       <find>便捷</find>
       <find>.navba</find>
+      <find>mobile App</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -124,11 +123,6 @@
             <path>
               <item name="ezgo-release" type="b2602c69:ProjectViewProjectNode" />
               <item name="ezgo-release" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ezgo-release" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ezgo-release" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -171,24 +165,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1602348425439</updated>
-      <workItem from="1602348426893" duration="2552000" />
+      <workItem from="1602348426893" duration="2870000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2552000" />
+    <option name="totallyTimeSpent" value="2870000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1726568" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1726568" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="GraphQL" />
-      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.32897863" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32897863" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -252,10 +246,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="100" column="56" lean-forward="true" selection-start-line="100" selection-start-column="56" selection-end-line="100" selection-end-column="56" />
+        <state relative-caret-position="147">
+          <caret line="7" column="64" selection-start-line="7" selection-start-column="64" selection-end-line="7" selection-end-column="64" />
           <folding>
-            <marker date="1602350993917" expanded="true" signature="3290:3491" ph="..." />
+            <marker date="1602351452943" expanded="true" signature="3100:3301" ph="..." />
           </folding>
         </state>
       </provider>
